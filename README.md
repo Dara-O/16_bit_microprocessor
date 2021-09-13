@@ -27,7 +27,7 @@ A 16 bit multicycle microprocessor modeled using SystemVerilog and developed usi
 - **add, sub, mult, slt, halt**
 
 | immediate | rt    | rs   | rd  | op code |
-|:---------:|-------|------|-----|---------|
+|:---------:|-------|------|-----|:-------:|
 |     15    | 14:11 | 10:7 | 6:3 |   2:0   |
 
 - **lw, sw**<br>
